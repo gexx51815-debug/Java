@@ -1,0 +1,5 @@
+Joan Garcia;612345678;joan@gmail.com
+Maria Lopez;623456789;maria@gmail.com
+Pau Martinez;634567890;pau@gmail.com
+Anna Puig;645678901;anna@gmail.com
+Marc Vila;656789012;marc@gmail.com
